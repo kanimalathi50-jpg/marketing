@@ -4,22 +4,6 @@ A simple and responsive **Product Catalog** web app where users can browse and f
 
 ---
 
-## 🚀 Demo
-
-🔗 **Live Demo:** [Click here to view the project](https://your-demo-link.com)
-
----
-
-## 🖼️ Screenshots
-
-### 🧭 Homepage
-![Homepage Screenshot](./screenshots/homepage.png)
-
-### 🔍 Filtered Products
-![Filtered View Screenshot](./screenshots/filtered-products.png)
-
----
-
 ## 💡 Features
 
 - Browse product listings with images  
@@ -41,7 +25,8 @@ A simple and responsive **Product Catalog** web app where users can browse and f
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/product-catalog.git
+  https://github.com/kanimalathi50-jpg/marketing.git 
+  
 
 ---
 
