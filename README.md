@@ -1,8 +1,8 @@
 # 🛍️ Product Catalog with Filters
 
-A simple and responsive **Product Catalog** web app where users can browse and filter products by category, price, or name. Built using **HTML, CSS, and JavaScript**.
+## 📖 Overview
 
----
+The Product Catalog with Filters is a simple web app that lets users browse and filter products easily using categories. Built with HTML, CSS, and JavaScript for a clean and responsive design.
 
 ## 💡 Features
 
@@ -15,8 +15,8 @@ A simple and responsive **Product Catalog** web app where users can browse and f
 
 ## 🛠️ Tech Stack
 
-- **HTML5**
-- **CSS3**
+- **HTML**
+- **CSS**
 - **JavaScript**
 
 ---
@@ -54,5 +54,12 @@ product-catalog/
 2.Create a new branch(feature/new-feature)
 3.commit your changes(git commit -m "Add new feature")
 4.Push and open a full Reaquest
+
+---
+
+🧠 Challenges & Solutions
+
+Challenge: Handling dynamic product filtering without page reloads.
+Solution: Used JavaScript to update product display instantly based on selected filters.
 
 ---
