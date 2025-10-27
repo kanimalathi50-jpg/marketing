@@ -63,3 +63,5 @@ Challenge: Handling dynamic product filtering without page reloads.
 Solution: Used JavaScript to update product display instantly based on selected filters.
 
 ---
+
+---
